@@ -30,6 +30,10 @@ Join [here](https://hackclub.com/) and make sure to check out the **#onboard** c
 
 ### **2. Build a robot**
 Create the schematic, chassis, and code.
+**It is recommended that you use Wokwi and TinkeCAD, but you can use whatever you're comfortable with**
+*I've never created a circuit board before!*
+Hack Club has [tutorials](https://jams.hackclub.com/tag/pcb) you can follow! 
+
 
 ### **3. Submit a PR**
 
@@ -37,4 +41,23 @@ Create the schematic, chassis, and code.
   <img src="https://img.youtube.com/vi/Bh3dm81X_zs/maxresdefault.jpg" width="200"/>
 </a>
 
+[You can use this as an example](projects/example/)
+You could also view other projects aswell, [here is a Robo-Car!](projects/Robocar%20-%20Hussein/)
+
 ### **4. Recieve and Assemble**
+After your PR gets approved, we will ship your components and 3D printed chasis!
+
+### **5. Post in #onward! (optional)**
+
+## **FAQ**
+**Can I join if I'm a college student/not in High School?**
+
+Sadly only Middle and High Schoolers can participate
+
+**Are beginners welcomed?**
+
+Of course!
+
+**This Hack Club thing sounds cool, where can I join?**
+
+https://hackclub.com/
