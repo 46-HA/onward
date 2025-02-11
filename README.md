@@ -1,3 +1,6 @@
+![Pixel Art Robots](https://cloud-56bfc2y63-hack-club-bot.vercel.app/0pixel_art_robots_gif_by_gavin_reed.gif)  
+*GIF by [Gavin Reed](https://giphy.com/gifs/pixel-art-robots-gamedev-xTiTnlfW3b5pmlYzBe)*
+
 # **Onward: A WIP Arduino Robot YSWS**
 
 ## **Outline:**
