@@ -1,6 +1,12 @@
-What is Onward?
+## **FAQ**
+**Can I join if I'm a college student/not in High School?**
 
-How do I get started?
+Sadly only Middle and High Schoolers can participate
 
-Can I join if I'm not in high school?
+**Are beginners welcomed?**
 
+Of course!
+
+**This Hack Club thing sounds cool, where can I join?**
+
+https://hackclub.com/
