@@ -30,8 +30,12 @@ Join [here](https://hackclub.com/) and make sure to check out the **#onboard** c
 
 ### **2. Build a robot**
 Create the schematic, chassis, and code.
+
 **It is recommended that you use Wokwi and TinkeCAD, but you can use whatever you're comfortable with**
+
+
 *I've never created a circuit board before!*
+
 Hack Club has [tutorials](https://jams.hackclub.com/tag/pcb) you can follow! 
 
 
