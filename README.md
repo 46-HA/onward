@@ -26,12 +26,12 @@ Project ideas can be anything!
 ## **Getting Started:**
 
 ### **1. Join Hack Club Slack**
-Join [here](https://hackclub.com/) and make sure to check out the **#onboard** channel for more details on how to get started!
+Join [here](https://hackclub.com/) and make sure to check out the **#onward** channel for more details on how to get started!
 
 ### **2. Build a robot**
 Create the schematic, chassis, and code.
 
-**It is recommended that you use Wokwi and TinkeCAD, but you can use whatever you're comfortable with**
+**It is recommended that you use Wokwi and TinkerCAD, but you can use whatever you're comfortable with**
 
 
 *I've never created a circuit board before!*
@@ -46,6 +46,7 @@ Hack Club has [tutorials](https://jams.hackclub.com/tag/pcb) you can follow!
 </a>
 
 [You can use this as an example](projects/example/)
+
 You could also view other projects aswell, [here is a Robo-Car!](projects/Robocar%20-%20Hussein/)
 
 ### **4. Recieve and Assemble**
