@@ -32,4 +32,9 @@ Join [here](https://hackclub.com/) and make sure to check out the **#onboard** c
 Create the schematic, chassis, and code.
 
 ### **3. Submit a PR**
-[![Instructions are here!](https://img.youtube.com/vi/Bh3dm81X_zs/maxresdefault.jpg)](https://www.youtube.com/watch?v=Bh3dm81X_zs)
+
+<a href="https://www.youtube.com/watch?v=Bh3dm81X_zs">
+  <img src="https://img.youtube.com/vi/Bh3dm81X_zs/maxresdefault.jpg" width="200"/>
+</a>
+
+### **4. Recieve and Assemble**
